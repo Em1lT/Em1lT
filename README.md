@@ -1,5 +1,20 @@
-### Hi there 👋
+### Hi there 
 
+ 👋 
+　 ＼＼ ______
+　　 ＼( ͡° ͜ʖ ͡°)
+　　　 >　⌒ヽ
+　　　/ 　 へ＼
+　　 /　　/　＼＼
+　　 ﾚ　ノ　　 ヽ_つ
+　　/　/
+　 /　/|
+　(　(ヽ
+　|　|、＼
+　| 丿 ＼ ⌒)
+　| |　　) /
+ノ )　　Lﾉ
+(_／
 <!--
 **Em1lT/Em1lT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
