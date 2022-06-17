@@ -1,20 +1,20 @@
 ### Hi there 
 
- 👋 
-　 ＼＼ ______
-　　 ＼( ͡° ͜ʖ ͡°)
-　　　 >　⌒ヽ
-　　　/ 　 へ＼
-　　 /　　/　＼＼
-　　 ﾚ　ノ　　 ヽ_つ
-　　/　/
-　 /　/|
-　(　(ヽ
-　|　|、＼
-　| 丿 ＼ ⌒)
-　| |　　) /
-ノ )　　Lﾉ
-(_／
+ 👋 \
+　 ＼＼ ______\
+　　 ＼( ͡° ͜ʖ ͡°)\
+　　　 >　⌒ヽ\
+　　　/ 　 へ＼\
+　　 /　　/　＼＼\
+　　 ﾚ　ノ　　 ヽ_つ \
+　　/　/ \
+　 /　/| \
+　(　(ヽ \
+　|　|、＼ \
+　| 丿 ＼ ⌒) \
+　| |　　) / \
+ノ )　　Lﾉ \
+
 <!--
 **Em1lT/Em1lT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+4-->
