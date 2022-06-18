@@ -1,0 +1,10 @@
+{
+  "name": "locationcheck",
+  "version": "1.0.0",
+  "description": "this will create the description for my readme file",
+  "main": "index.js",
+  "repository": "git@github.com:Em1lT/Em1lT.git",
+  "author": "Emil Toivainen",
+  "license": "MIT",
+  "dependencies": {}
+}
