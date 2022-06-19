@@ -1,7 +1,6 @@
 const fs = require("fs");
 
 const templater = () => {
-    // regex matching {{}}
     const regex = /\{\{(.*?)\}\}/g;
     const read = async (templatePath, encoding = "utf8") => {
         return fs.readFileSync(templatePath, encoding);
