@@ -8,12 +8,12 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
 
 Weather report: Espoo
 
-                Shower in vicinity
-       .--.     +15(16) °C     
-    .-(    ).   ↓ 11 km/h      
-   (___.__)__)  10 km          
+                Shallow fog
+   _ - _ - _ -  +8(7) °C       
+    _ - _ - _   ↓ 4 km/h       
+   _ - _ - _ -  10 km          
                 0.0 mm
 
 
-Last updated on Monday, 20 June, 12:19 UTC
+Last updated on Tuesday, 21 June, 00:43 UTC
 </pre>
