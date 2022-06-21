@@ -8,12 +8,12 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
 
 Weather report: Espoo
 
-                Shallow fog
-   _ - _ - _ -  +8(7) °C       
-    _ - _ - _   ↓ 4 km/h       
-   _ - _ - _ -  10 km          
-                0.0 mm
+      \   /     Sunny
+       .-.      57 °F          
+    ― (   ) ―   ↗ 3 mph        
+       `-’      6 mi           
+      /   \     0.0 in
 
 
-Last updated on Tuesday, 21 June, 00:43 UTC
+Last updated on Tuesday, 21 June, 05:00 UTC
 </pre>
