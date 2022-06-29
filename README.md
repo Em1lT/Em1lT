@@ -9,13 +9,13 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Espoo  
     
-        \   /     Sunny  
-         .-.      +73(77) °F  
-      ― (   ) ―   ← 8 mph  
-         `-’      6 mi  
-        /   \     0.0 in  
-                             .
+                  Shower in vicinity  
+         .--.     +77(80) °F  
+      .-(    ).   ← 14 mph  
+     (___.__)__)  6 mi  
+                  0.0 in  
+                                     .
 
 
-Last updated on Tuesday, 28 June, 12:18 UTC
+Last updated on Wednesday, 29 June, 12:14 UTC
 </pre>
