@@ -12,13 +12,13 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Espoo  
     
-       \  /       Partly cloudy  
-     _ /"".-.     60 °F  
-       \_(   ).   ↗ 12 mph  
-       /(___(__)  6 mi  
+                  Shower in vicinity  
+         .--.     62 °F  
+      .-(    ).   → 11 mph  
+     (___.__)__)  6 mi  
                   0.0 in  
-                                .
+                                     .
 
 
-Last updated on Saturday, 16 July, 12:13 UTC
+Last updated on Sunday, 17 July, 12:14 UTC
 </pre>
