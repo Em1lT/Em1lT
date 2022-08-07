@@ -4,6 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -18,13 +19,13 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Espoo  
     
-       \  /       Partly cloudy  
-     _ /"".-.     19 °C  
-       \_(   ).   → 15 km/h  
-       /(___(__)  10 km  
+                  Shower in vicinity  
+         .--.     18 °C  
+      .-(    ).   ↘ 13 km/h  
+     (___.__)__)  10 km  
                   0.0 mm  
-                                .
+                                     .
 
 
-Last updated on Sunday, 7 August, 12:14 UTC
+Last updated on Sunday, 7 August, 17:20 UTC
 </pre>
