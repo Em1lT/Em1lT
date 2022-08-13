@@ -1,5 +1,6 @@
 ## Emil Toivainen 
 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -20,13 +21,13 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Espoo  
     
-       \  /       Partly cloudy  
-     _ /"".-.     +26(27) °C  
-       \_(   ).   ↑ 20 km/h  
-       /(___(__)  10 km  
-                  0.0 mm  
-                                .
+        \   /     Sunny  
+         .-.      +78(80) °F  
+      ― (   ) ―   ↖ 2 mph  
+         `-’      6 mi  
+        /   \     0.0 in  
+                             .
 
 
-Last updated on Friday, 12 August, 12:16 UTC
+Last updated on Saturday, 13 August, 11:38 UTC
 </pre>
