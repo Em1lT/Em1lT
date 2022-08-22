@@ -37,12 +37,12 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
   Weather report: Espoo  
     
        \  /       Partly cloudy  
-     _ /"".-.     +25(26) °C  
-       \_(   ).   ← 33 km/h  
+     _ /"".-.     17 °C  
+       \_(   ).   → 7 km/h  
        /(___(__)  10 km  
-                  0.0 mm  
+                  0.1 mm  
                                 .
 
 
-Last updated on Saturday, 20 August, 12:14 UTC
+Last updated on Monday, 22 August, 12:18 UTC
 </pre>
