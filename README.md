@@ -34,15 +34,15 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
 
 
  
-  Weather report: Espoo  
+  Weather report: Hyvinkaa  
     
-       \  /       Partly cloudy  
-     _ /"".-.     +59(57) °F  
-       \_(   ).   ↓ 16 mph  
-       /(___(__)  6 mi  
-                  0.0 in  
-                                .
+                  Cloudy  
+         .--.     18 °C  
+      .-(    ).   ↙ 18 km/h  
+     (___.__)__)  10 km  
+                  0.0 mm  
+                            .
 
 
-Last updated on Monday, 29 August, 12:18 UTC
+Last updated on Tuesday, 30 August, 10:47 UTC
 </pre>
