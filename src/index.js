@@ -4,7 +4,7 @@ const get = require("./util/request");
 const formatText = require("./util/textFormatter");
 
 (async () => {
-    const response = await get("https://wttr.in/Espoo?0Tp");
+    const response = await get("https://wttr.in/Hyvinkaa?0Tp");
     const [ result ] = response.match(/(?<=\<pre\>\s*).*?(?=\s*\<\/pre\>)/gs);
     const formattedText = formatText(result);
     await templater("./src/template/template.txt", "./README.md", {
