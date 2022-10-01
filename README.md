@@ -36,13 +36,13 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Hyvinkaa  
     
-     _`/"".-.     Light rain shower  
-      ,\_(   ).   11 °C  
-       /(___(__)  ↗ 4 km/h  
-         ‘ ‘ ‘ ‘  10 km  
-        ‘ ‘ ‘ ‘   0.9 mm  
-                                    .
+                  Overcast  
+         .--.     +53(51) °F  
+      .-(    ).   ↑ 6 mph  
+     (___.__)__)  6 mi  
+                  0.0 in  
+                             .
 
 
-Last updated on Friday, 30 September, 12:21 UTC
+Last updated on Saturday, 1 October, 12:18 UTC
 </pre>
