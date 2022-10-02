@@ -36,13 +36,13 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Hyvinkaa  
     
-                  Overcast  
-         .--.     +53(51) °F  
-      .-(    ).   ↑ 6 mph  
-     (___.__)__)  6 mi  
+       \  /       Partly cloudy  
+     _ /"".-.     +53(51) °F  
+       \_(   ).   ↖ 5 mph  
+       /(___(__)  6 mi  
                   0.0 in  
-                             .
+                                .
 
 
-Last updated on Saturday, 1 October, 12:18 UTC
+Last updated on Sunday, 2 October, 12:18 UTC
 </pre>
