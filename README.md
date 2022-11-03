@@ -1,8 +1,10 @@
-## Emil Toivainen 
-
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-
-## About me: 
+## About me
+    ______            _  __
+   / ____/____ ___   (_)/ /
+  / __/  / __ `__ \ / // / 
+ / /___ / / / / / // // /  
+/_____//_/ /_/ /_//_//_/   
+                           
 
 Full Stack Developer with deep understanding of JavaScript. Knowledge on a variety of libraries and frameworks made for JavaScript. Loves to create robust solutions for different kinds of problems. Career consists of creating solutions to many different customers ranging from small businesses to large companies. In free time I'm interested in the ever changing landscape of technology. 
 
@@ -13,13 +15,13 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Hyvinkaa  
     
-     _`/"".-.     Patchy rain possible  
-      ,\_(   ).   +6(5) °C  
-       /(___(__)  ↖ 8 km/h  
-         ‘ ‘ ‘ ‘  10 km  
-        ‘ ‘ ‘ ‘   0.1 mm  
-                                       .
+                  Overcast  
+         .--.     +42(39) °F  
+      .-(    ).   ↖ 4 mph  
+     (___.__)__)  6 mi  
+                  0.0 in  
+                             .
 
 
-Last updated on Thursday, 3 November, 12:17 UTC
+Last updated on Thursday, 3 November, 16:36 UTC
 </pre>
