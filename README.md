@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Hyvinkaa  
     
-         .-.      Heavy snow  
-        (   ).    -4 °C  
-       (___(__)   ↙ 4 km/h  
-       * * * *    2 km  
-      * * * *     0.3 mm  
-                             .
+     _`/"".-.     Light snow shower  
+      ,\_(   ).   -4(-5) °C  
+       /(___(__)  ↙ 4 km/h  
+         *  *  *  10 km  
+        *  *  *   0.0 mm  
+                                    .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Saturday, 3 December, 12:12 UTC
+Last updated on Sunday, 4 December, 12:14 UTC
 </pre>
