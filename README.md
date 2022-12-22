@@ -36,17 +36,17 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Oymyakon  
     
-       \  /       Partly cloudy  
-     _ /"".-.     19(15) °F  
-       \_(   ).   → 2 mph  
-       /(___(__)  6 mi  
-                  0.0 in  
-                                .
+                  Freezing fog  
+     _ - _ - _ -  -25 °C  
+      _ - _ - _   → 4 km/h  
+     _ - _ - _ -  0 km  
+                  0.0 mm  
+                               .
 <span class="eb91"> We were unable to find your location </span>
 <span class="eb91"> so we have brought you to Oymyakon, </span>
 <span class="eb91"> one of the coldest permanently inhabited locales on the planet. </span>
 
 
 --------------------------------------------------------------------------------------
-Last updated on Wednesday, 21 December, 12:14 UTC
+Last updated on Thursday, 22 December, 12:14 UTC
 </pre>
