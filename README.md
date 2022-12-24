@@ -24,29 +24,17 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
 --------------------------------------------------------------------------------------
 
 
-<span class="eb91">&>&>&>    _  _    ___  _  _        </span>
-<span class="eb91">&>&>&>   | || |  / _ \| || |         </span>
-<span class="eb91">&>&>&>   | || |_| | | | || |_         </span>
-<span class="eb91">&>&>&>   |__   _| |_| |__   _|         </span>
-<span class="eb91">&>&>&>      |_|  \___/   |_|       </span>
-<span class="eb91">&>&>&>                          </span>
-<span class="eb91">&>&>&>   404 UNKNOWN LOCATION: Hyvinkaa   </span>
-<span class="eb91">&>&>&>                    </span>
-----
  
-  Weather report: Oymyakon  
+  Weather report: Hyvinkaa  
     
-                  Freezing fog  
-     _ - _ - _ -  -40(-49) °F  
-      _ - _ - _   ↑ 2 mph  
-     _ - _ - _ -  0 mi  
-                  0.0 in  
-                               .
-<span class="eb91"> We were unable to find your location </span>
-<span class="eb91"> so we have brought you to Oymyakon, </span>
-<span class="eb91"> one of the coldest permanently inhabited locales on the planet. </span>
+        \   /     Sunny  
+         .-.      28(21) °F  
+      ― (   ) ―   → 8 mph  
+         `-’      6 mi  
+        /   \     0.0 in  
+                            .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Friday, 23 December, 12:13 UTC
+Last updated on Saturday, 24 December, 12:12 UTC
 </pre>
