@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Hyvinkaa  
     
-     _`/"".-.     Light snow grains  
-      ,\_(   ).   19(8) °F  
-       /(___(__)  ← 12 mph  
-         *  *  *  3 mi  
-        *  *  *   0.0 in  
-                                    .
+     _`/"".-.     Snow, low drifting snow  
+      ,\_(   ).   23(12) °F  
+       /(___(__)  ← 13 mph  
+        * * * *   0 mi  
+       * * * *    0.2 in  
+                                          .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Sunday, 8 January, 12:13 UTC
+Last updated on Monday, 9 January, 12:15 UTC
 </pre>
