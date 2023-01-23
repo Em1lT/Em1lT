@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Hyvinkaa  
     
-                  Freezing fog  
-     _ - _ - _ -  -5(-8) °C  
-      _ - _ - _   ↓ 4 km/h  
-     _ - _ - _ -  1 km  
-                  0.0 mm  
-                               .
+                  Overcast  
+         .--.     24(17) °F  
+      .-(    ).   ↗ 6 mph  
+     (___.__)__)  6 mi  
+                  0.0 in  
+                            .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Sunday, 22 January, 12:13 UTC
+Last updated on Monday, 23 January, 12:14 UTC
 </pre>
