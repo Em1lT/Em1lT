@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Hyvinkaa  
     
-         .-.      Blizzard  
-        (   ).    +2(-4) °C  
-       (___(__)   ↗ 27 km/h  
-       * * * *    0 km  
-      * * * *     0.1 mm  
-                            .
+       \  /       Partly cloudy  
+     _ /"".-.     +1(-5) °C  
+       \_(   ).   → 41 km/h  
+       /(___(__)  10 km  
+                  0.5 mm  
+                                .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Thursday, 9 February, 12:15 UTC
+Last updated on Friday, 10 February, 12:14 UTC
 </pre>
