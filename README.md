@@ -13,7 +13,7 @@
 
 </pre>
 
-Full Stack Developer with deep understanding of JavaScript. Knowledge on a variety of libraries and frameworks made for JavaScript. Loves to create robust solutions for different kinds of problems. Career consists of creating solutions to many different customers ranging from small businesses to large companies. In my free time I'm interested in the ever changing landscape of technology. 
+Full Stack Developer with deep understanding of JavaScript. Knowledge on a variety of libraries and frameworks made for JavaScript. Loves to create robust solutions for different kinds of problems. Career consists of creating solutions to many different customers ranging from small businesses to large companies. In free time I'm interested in the ever changing landscape of technology. 
 
 
 
@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Hyvinkaa  
     
-        \   /     Sunny  
-         .-.      -1(-6) °C  
-      ― (   ) ―   ↘ 19 km/h  
-         `-’      10 km  
-        /   \     0.3 mm  
-                            .
+     _`/"".-.     Light snow  
+      ,\_(   ).   -2(-6) °C  
+       /(___(__)  ↑ 15 km/h  
+         *  *  *  10 km  
+        *  *  *   0.0 mm  
+                             .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Saturday, 11 February, 12:13 UTC
+Last updated on Sunday, 12 February, 08:54 UTC
 </pre>
