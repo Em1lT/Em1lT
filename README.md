@@ -13,7 +13,7 @@
 
 </pre>
 
-Full Stack Developer with deep understanding of JavaScript. Knowledge on a variety of libraries and frameworks made for JavaScript. Loves to create robust solutions for different kinds of problems. Career consists of creating solutions to many different customers ranging from small businesses to large companies. In free time I'm interested in the ever changing landscape of technology. 
+Full Stack Developer with deep understanding of JavaScript. Knowledge on a variety of libraries and frameworks made for JavaScript. Loves to create robust solutions for different kinds of problems. Career consists of creating solutions to many different customers ranging from small businesses to large companies. In my free time I'm interested in the ever changing landscape of technology. 
 
 
 
