@@ -28,13 +28,13 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
   Weather report: Hyvinkaa  
     
                   Shower in vicinity  
-         .--.     +48(44) °F  
-      .-(    ).   ↗ 13 mph  
+         .--.     +44(39) °F  
+      .-(    ).   ↑ 13 mph  
      (___.__)__)  6 mi  
                   0.0 in  
                                      .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Monday, 1 May, 12:13 UTC
+Last updated on Tuesday, 2 May, 12:14 UTC
 </pre>
