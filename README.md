@@ -28,13 +28,13 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
   Weather report: Hyvinkaa  
     
         \   /     Sunny  
-         .-.      +8(7) °C  
-      ― (   ) ―   ↗ 17 km/h  
-         `-’      10 km  
-        /   \     0.0 mm  
-                            .
+         .-.      +55(53) °F  
+      ― (   ) ―   ↖ 14 mph  
+         `-’      6 mi  
+        /   \     0.0 in  
+                             .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Saturday, 6 May, 12:12 UTC
+Last updated on Monday, 8 May, 12:13 UTC
 </pre>
