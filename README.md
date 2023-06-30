@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Hyvinkaa  
     
-     _`/"".-.     Patchy light rain with thunder  
-      ,\_(   ).   71 °F  
-       /(___(__)  ↗ 3 mph  
-        ⚡‘‘⚡‘‘  6 mi  
-        ‘ ‘ ‘ ‘   0.0 in  
-                                                 .
+        \   /     Sunny  
+         .-.      78 °F  
+      ― (   ) ―   ↗ 2 mph  
+         `-’      6 mi  
+        /   \     0.0 in  
+                           .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Thursday, 29 June, 12:02 UTC
+Last updated on Friday, 30 June, 12:02 UTC
 </pre>
