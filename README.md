@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Hyvinkaa  
     
-                  Mist  
-     _ - _ - _ -  +44(41) °F  
-      _ - _ - _   ↖ 4 mph  
-     _ - _ - _ -  1 mi  
-                  0.0 in  
+         .-.      Light rain  
+        (   ).    +4(0) °C  
+       (___(__)   ↙ 19 km/h  
+        ‘ ‘ ‘ ‘   10 km  
+       ‘ ‘ ‘ ‘    0.1 mm  
                              .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Saturday, 11 November, 12:01 UTC
+Last updated on Sunday, 12 November, 12:02 UTC
 </pre>
