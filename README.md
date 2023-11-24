@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Hyvinkaa  
     
-       \  /       Partly cloudy  
-     _ /"".-.     +35(33) °F  
-       \_(   ).   → 5 mph  
-       /(___(__)  6 mi  
-                  0.0 in  
-                                .
+     _`/"".-.     Light snow  
+      ,\_(   ).   30(23) °F  
+       /(___(__)  ↓ 11 mph  
+         *  *  *  6 mi  
+        *  *  *   0.0 in  
+                             .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Thursday, 23 November, 12:02 UTC
+Last updated on Friday, 24 November, 12:02 UTC
 </pre>
