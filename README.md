@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Hyvinkaa  
     
-         .-.      Light freezing rain and snow  
-        (   ).    -3(-8) °C  
-       (___(__)   ↓ 17 km/h  
-        ‘ * ‘ *   5 km  
-       * ‘ * ‘    0.1 mm  
-                                               .
+        \   /     Sunny  
+         .-.      -2(-14) °F  
+      ― (   ) ―   ↙ 6 mph  
+         `-’      6 mi  
+        /   \     0.0 in  
+                             .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Saturday, 30 December, 12:02 UTC
+Last updated on Monday, 1 January, 12:02 UTC
 </pre>
