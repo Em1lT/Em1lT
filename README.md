@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Hyvinkaa  
     
-         .-.      Light snow, low drifting snow  
-        (   ).    1(-13) °F  
-       (___(__)   ↓ 13 mph  
-        *  *  *   6 mi  
-       *  *  *    0.0 in  
-                                                .
+        \   /     Sunny  
+         .-.      5(-2) °F  
+      ― (   ) ―   ↓ 5 mph  
+         `-’      6 mi  
+        /   \     0.0 in  
+                           .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Friday, 5 January, 12:02 UTC
+Last updated on Saturday, 6 January, 12:02 UTC
 </pre>
