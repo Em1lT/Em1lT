@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Hyvinkaa  
     
-                  Shower in vicinity  
-         .--.     26(17) °F  
-      .-(    ).   ↗ 9 mph  
-     (___.__)__)  6 mi  
-                  0.0 in  
-                                     .
+     _`/"".-.     Light snow shower  
+      ,\_(   ).   26(23) °F  
+       /(___(__)  ↖ 3 mph  
+         *  *  *  6 mi  
+        *  *  *   0.0 in  
+                                    .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Friday, 22 November, 12:02 UTC
+Last updated on Saturday, 23 November, 12:02 UTC
 </pre>
