@@ -25,16 +25,16 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
 
 
  
-  Weather report: Hyvinkaa  
+  Weather report: Helsinki  
     
-       \  /       Partly cloudy  
-     _ /"".-.     -7(-10) °C  
-       \_(   ).   → 7 km/h  
-       /(___(__)  10 km  
-                  0.0 mm  
-                                .
+     _`/"".-.     Light snow  
+      ,\_(   ).   -3(-6) °C  
+       /(___(__)  ↘ 9 km/h  
+         *  *  *  10 km  
+        *  *  *   0.0 mm  
+                             .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Thursday, 2 January, 12:02 UTC
+Last updated on Friday, 3 January, 08:22 UTC
 </pre>
