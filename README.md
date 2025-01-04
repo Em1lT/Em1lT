@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Helsinki  
     
-                  Overcast  
-         .--.     28(21) °F  
-      .-(    ).   ↗ 5 mph  
-     (___.__)__)  6 mi  
-                  0.0 in  
-                            .
+         .-.      Patchy moderate snow  
+        (   ).    -4(-9) °C  
+       (___(__)   → 13 km/h  
+       * * * *    7 km  
+      * * * *     0.1 mm  
+                                       .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Friday, 3 January, 12:02 UTC
+Last updated on Saturday, 4 January, 12:02 UTC
 </pre>
