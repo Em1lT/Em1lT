@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Helsinki  
     
-         .-.      Patchy moderate snow  
-        (   ).    -4(-9) °C  
-       (___(__)   → 13 km/h  
-       * * * *    7 km  
-      * * * *     0.1 mm  
-                                       .
+       \  /       Partly cloudy  
+     _ /"".-.     -7(-8) °C  
+       \_(   ).   → 4 km/h  
+       /(___(__)  10 km  
+                  0.0 mm  
+                                .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Saturday, 4 January, 12:02 UTC
+Last updated on Sunday, 5 January, 12:02 UTC
 </pre>
