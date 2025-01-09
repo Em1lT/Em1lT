@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Helsinki  
     
-                  Mist  
-     _ - _ - _ -  +33(28) °F  
-      _ - _ - _   ↗ 6 mph  
-     _ - _ - _ -  2 mi  
-                  0.0 in  
-                             .
+     _`/"".-.     Shower in vicinity, rain and snow shower  
+      ,\_(   ).   32(26) °F  
+       /(___(__)  ↑ 7 mph  
+        * * * *   6 mi  
+       * * * *    0.0 in  
+                                                           .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Wednesday, 8 January, 12:02 UTC
+Last updated on Thursday, 9 January, 12:02 UTC
 </pre>
