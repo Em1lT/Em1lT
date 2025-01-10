@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Helsinki  
     
-     _`/"".-.     Shower in vicinity, rain and snow shower  
-      ,\_(   ).   32(26) °F  
-       /(___(__)  ↑ 7 mph  
-        * * * *   6 mi  
-       * * * *    0.0 in  
-                                                           .
+     _`/"".-.     Light snow  
+      ,\_(   ).   0(-6) °C  
+       /(___(__)  ↙ 31 km/h  
+         *  *  *  10 km  
+        *  *  *   0.6 mm  
+                             .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Thursday, 9 January, 12:02 UTC
+Last updated on Friday, 10 January, 12:02 UTC
 </pre>
