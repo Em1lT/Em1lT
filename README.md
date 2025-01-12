@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Helsinki  
     
-         .-.      Light snow, low drifting snow  
-        (   ).    -3(-10) °C  
-       (___(__)   ↓ 26 km/h  
-        *  *  *   5 km  
-       *  *  *    0.8 mm  
-                                                .
+        \   /     Sunny  
+         .-.      -5(-13) °C  
+      ― (   ) ―   ↓ 25 km/h  
+         `-’      10 km  
+        /   \     0.0 mm  
+                             .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Saturday, 11 January, 12:02 UTC
+Last updated on Sunday, 12 January, 12:02 UTC
 </pre>
