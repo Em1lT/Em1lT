@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Helsinki  
     
-        \   /     Sunny  
-         .-.      +39(30) °F  
-      ― (   ) ―   ↘ 19 mph  
-         `-’      6 mi  
-        /   \     0.0 in  
-                             .
+                  Freezing fog, fog  
+     _ - _ - _ -  32(23) °F  
+      _ - _ - _   ↗ 12 mph  
+     _ - _ - _ -  0 mi  
+                  0.0 in  
+                                    .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Saturday, 18 January, 12:02 UTC
+Last updated on Sunday, 19 January, 12:02 UTC
 </pre>
