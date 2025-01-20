@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Helsinki  
     
-                  Freezing fog, fog  
-     _ - _ - _ -  32(23) °F  
-      _ - _ - _   ↗ 12 mph  
-     _ - _ - _ -  0 mi  
-                  0.0 in  
-                                    .
+        \   /     Sunny  
+         .-.      -3(-8) °C  
+      ― (   ) ―   ↙ 14 km/h  
+         `-’      10 km  
+        /   \     0.0 mm  
+                            .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Sunday, 19 January, 12:02 UTC
+Last updated on Monday, 20 January, 12:02 UTC
 </pre>
