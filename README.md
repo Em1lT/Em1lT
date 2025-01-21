@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Helsinki  
     
-        \   /     Sunny  
-         .-.      -3(-8) °C  
-      ― (   ) ―   ↙ 14 km/h  
-         `-’      10 km  
-        /   \     0.0 mm  
-                            .
+     _`/"".-.     Light snow  
+      ,\_(   ).   -3(-10) °C  
+       /(___(__)  ← 33 km/h  
+         *  *  *  10 km  
+        *  *  *   1.2 mm  
+                             .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Monday, 20 January, 12:02 UTC
+Last updated on Tuesday, 21 January, 12:02 UTC
 </pre>
