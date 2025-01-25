@@ -28,13 +28,13 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
   Weather report: Helsinki  
     
          .-.      Light rain  
-        (   ).    +35(26) °F  
-       (___(__)   ↑ 14 mph  
-        ‘ ‘ ‘ ‘   3 mi  
-       ‘ ‘ ‘ ‘    0.0 in  
+        (   ).    +2(-5) °C  
+       (___(__)   ↑ 38 km/h  
+        ‘ ‘ ‘ ‘   9 km  
+       ‘ ‘ ‘ ‘    0.0 mm  
                              .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Friday, 24 January, 12:02 UTC
+Last updated on Saturday, 25 January, 12:02 UTC
 </pre>
