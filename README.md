@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Helsinki  
     
-                  Fog  
-     _ - _ - _ -  +39(35) °F  
-      _ - _ - _   ↗ 7 mph  
-     _ - _ - _ -  0 mi  
-                  0.0 in  
-                             .
+         .-.      Light drizzle  
+        (   ).    +3(-2) °C  
+       (___(__)   ← 24 km/h  
+        ‘ ‘ ‘ ‘   2 km  
+       ‘ ‘ ‘ ‘    0.7 mm  
+                                .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Tuesday, 28 January, 12:02 UTC
+Last updated on Wednesday, 29 January, 12:02 UTC
 </pre>
