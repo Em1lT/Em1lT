@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Helsinki  
     
-     _`/"".-.     Light snow  
-      ,\_(   ).   -3(-5) °C  
-       /(___(__)  ↗ 6 km/h  
-         *  *  *  10 km  
-        *  *  *   0.0 mm  
-                             .
+       \  /       Partly cloudy  
+     _ /"".-.     30(24) °F  
+       \_(   ).   → 5 mph  
+       /(___(__)  6 mi  
+                  0.0 in  
+                                .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Sunday, 9 February, 12:02 UTC
+Last updated on Monday, 10 February, 12:02 UTC
 </pre>
