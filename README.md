@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Helsinki  
     
-       \  /       Partly cloudy  
-     _ /"".-.     30(24) °F  
-       \_(   ).   → 5 mph  
-       /(___(__)  6 mi  
-                  0.0 in  
-                                .
+     _`/"".-.     Light snow grains  
+      ,\_(   ).   26(17) °F  
+       /(___(__)  ↗ 8 mph  
+         *  *  *  6 mi  
+        *  *  *   0.0 in  
+                                    .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Monday, 10 February, 12:02 UTC
+Last updated on Tuesday, 11 February, 12:02 UTC
 </pre>
