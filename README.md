@@ -27,14 +27,14 @@ Full Stack Developer with deep understanding of JavaScript. Knowledge on a varie
  
   Weather report: Helsinki  
     
-     _`/"".-.     Light snow grains  
-      ,\_(   ).   24(15) °F  
-       /(___(__)  ↑ 11 mph  
-         *  *  *  1 mi  
-        *  *  *   0.0 in  
+     _`/"".-.     Low drifting snow  
+      ,\_(   ).   -1(-8) °C  
+       /(___(__)  ↗ 29 km/h  
+         *  *  *  10 km  
+        *  *  *   0.0 mm  
                                     .
 
 
 --------------------------------------------------------------------------------------
-Last updated on Thursday, 20 February, 12:02 UTC
+Last updated on Friday, 21 February, 12:02 UTC
 </pre>
